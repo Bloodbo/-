@@ -1,0 +1,6 @@
+﻿  GameForm.cpp
+D:\programming\C++ Ilya Programming\Training\Snake\Snake\GameForm.h(3,10): error C1083: Не удается открыть файл включение: time.h: No such file or directory,
+  (компиляция исходного файла "GameForm.cpp")
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...

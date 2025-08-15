@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\Snake\Snake\x64\Debug\Snake.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\Snake\Snake\x64\Debug\Snake.GameForm.resources
+C:\Users\User\source\repos\Snake\Snake\x64\Debug\Snake.vcxproj.GenerateResource.cache
